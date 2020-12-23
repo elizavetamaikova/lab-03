@@ -5,6 +5,4 @@
 #ifndef LAB_03_SHAREDPTR_HPP
 #define LAB_03_SHAREDPTR_HPP
 
-class SharedPtr {};
-
 #endif  // LAB_03_SHAREDPTR_HPP
